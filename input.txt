@@ -1,0 +1,23 @@
+Sample0(Wrong)		: 21011 - 1234567
+Sample1(Wrong)		: 911111 - 111111
+Sample2(Wrong)		: 910125-1289204
+Sample3(Wrong)		: 911325 - 2229803
+Sample4(Wrong)		: 911232 - 2325804
+Sample5(Wrong)		: 971130 - 3325808
+Sample6(Wrong)		: 910221 - 1239531
+Sample7(Wrong)		: 910229 - 1239539
+Sample8(Wrong)		: 170101 - 1365983
+Sample9(Wrong)		: 180101 - 3365986
+Sample10(Correct) 	: 920229 - 1239536
+Sample11(Correct)	: ab660430 - 2698717bc
+Sample12(Correct)	: 112730331 - 2698530234
+Sample13(Correct)	: 880228 - 1234568
+Sample14(Correct)	: 440229 - 1659832
+Sample15(Correct)	: 880131 - 1234561
+Sample16(Correct)	: 170101 - 3365989
+Sample17(Correct)	: 410831 - 2365487
+Sample18(Correct)	: aaac123520229 - 136598300abcvk1
+Sample19(Correct)	: 111231 - 3111220
+
+
+
