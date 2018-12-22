@@ -1,2 +1,2 @@
-model_checkpoint_path: "minist_CNN.ckpt"
-all_model_checkpoint_paths: "minist_CNN.ckpt"
+model_checkpoint_path: "/Users/tglkwon/neovenezia/mnist_test/mnist_softmax.ckpt"
+all_model_checkpoint_paths: "/Users/tglkwon/neovenezia/mnist_test/mnist_softmax.ckpt"
