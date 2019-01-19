@@ -1,0 +1,1979 @@
+Shuffle:
+  Seed: mt19937ar-sha512-n288-base64,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
+  Ref: 
+Lobby 0:
+  Table: tenhou
+    red: True
+    kui: True
+    ton-nan: True
+    sanma: False
+    soku: False
+Players:
+  Index: Dan,     Rate, Sex, Name
+      0:  17,  2208.66,   M, 木漏れ日
+      1:  19,  2313.40,   M, お知らせ
+      2:  16,  2210.36,   M, komapia
+      3:  17,  2200.61,   M, 安達さくら
+Dealer: 0
+========================================
+Initial Game State:
+  Round: Ton 1 Kyoku
+  Combo: 0
+  Reach: 0
+  Dice 1: 0
+  Dice 2: 4
+  Dora Indicator: 🀃 0
+  Initial Scores:
+       0:  25000
+       1:  25000
+       2:  25000
+       3:  25000
+  Dealer: 0
+  Initial Hands:
+      0: 🀈 1 🀊 1 🀊 3 🀚 1 🀜 2 🀝 1 🀐 0 🀑 0 🀔 0 🀕 1 🀕 2 🀂 3 🀃 2
+      1: 🀇 3 🀈 2 🀌 2 🀏 1 🀙 0 🀞 2 🀒 3 🀕 3 🀗 2 🀘 0 🀁 0 🀂 1 🀅 2
+      2: 🀇 0 🀇 2 🀎 1 🀏 3 🀚 2 🀜 3 🀞 0 🀓 0 🀓 3 🀘 3 🀁 2 🀂 2 🀅 0
+      3: 🀈 0 🀉 3 🀍 1 🀎 3 🀝 3 🀡 3 🀒 1 🀒 2 🀖 0 🀗 3 🀘 2 🀀 1 🀄 0
+Player 0: Draw    🀖 2
+Player 0: Discard 🀃 2
+Player 1: Draw    🀂 0
+Player 1: Discard 🀏 1
+Player 2: Draw    🀔 3
+Player 2: Discard 🀁 2
+Player 3: Draw    🀎 0
+Player 3: Discard 🀄 0
+Player 0: Draw    🀋 1
+Player 0: Discard 🀂 3
+Player 1: Draw    🀐 1
+Player 1: Discard 🀞 2
+Player 2: Draw    🀁 1
+Player 2: Discard 🀁 1
+Player 3: Draw    🀊 0
+Player 3: Discard 🀎 3
+Player 0: Draw    🀈 3
+Player 0: Discard 🀚 1
+Player 1: Draw    🀗 0
+Player 1: Discard 🀌 2
+Player 2: Draw    🀝 0
+Player 2: Discard 🀅 0
+Player 3: Draw    🀘 1
+Player 3: Discard 🀘 1
+Player 0: Draw    🀝 2
+Player 0: Discard 🀐 0
+Player 1: Draw    🀊 2
+Player 1: Discard 🀊 2
+Player 2: Draw    🀆 1
+Player 2: Discard 🀆 1
+Player 3: Draw    🀔 1
+Player 3: Discard 🀡 3
+Player 0: Draw    🀠 3
+Player 0: Discard 🀑 0
+Player 1: Draw    🀛 3
+Player 1: Discard 🀕 3
+Player 2: Draw    🀟 3
+Player 2: Discard 🀘 3
+Player 3: Draw    🀟 2
+Player 3: Discard 🀔 1
+Player 0: Draw    🀖 1
+Player 0: Discard 🀠 3
+Player 1: Draw    🀔 2
+Player 1: Discard 🀔 2
+Player 2: Draw    🀉 1
+Player 2: Discard 🀂 2
+Player 3: Draw    🀄 2
+Player 3: Discard 🀄 2
+Player 0: Draw    🀀 3
+Player 0: Discard 🀀 3
+Player 1: Draw    🀐 3
+Player 1: Discard 🀐 3
+Player 2: Draw    🀓 2
+Player 2: Discard 🀔 3
+Player 3: Draw    🀟 0
+Player 3: Discard 🀀 1
+Player 0: Draw    🀗 1
+Player 0: Discard 🀊 3
+Player 1: Draw    🀡 1
+Player 1: Discard 🀡 1
+Player 2: Draw    🀎 2
+Player 2: Discard 🀉 1
+Player 3: Draw    🀞 3
+Player 3: Reach
+Player 3: Discard 🀟 2
+Player 3 made deposite.
+New scores:
+       0:  25000
+       1:  25000
+       2:  25000
+       3:  24000
+Player 0: Draw    🀟 1
+Player 0: Discard 🀟 1
+Player 1: Draw    🀃 1
+Player 1: Discard 🀃 1
+Player 2: Draw    🀄 3
+Player 2: Discard 🀄 3
+Player 3: Draw    🀆 0
+Player 3: Discard 🀆 0
+Player 0: Draw    🀠 2
+Player 0: Discard 🀠 2
+Player 1: Draw    🀃 3
+Player 1: Discard 🀃 3
+Player 2: Draw    🀡 2
+Player 2: Discard 🀡 2
+Player 3: Draw    🀑 3
+Player 3: Discard 🀑 3
+Player 0: Draw    🀞 1
+Player 0: Reach
+Player 0: Discard 🀝 2
+Player 0 made deposite.
+New scores:
+       0:  24000
+       1:  25000
+       2:  25000
+       3:  24000
+Player 1: Draw    🀋 2
+Player 1: Discard 🀂 0
+Player 2: Draw    🀆 3
+Player 2: Discard 🀆 3
+Player 3: Draw    🀉 0
+Player 3: Discard 🀉 0
+Player 0 wins.
+  Ron from player 3
+  Hand: 🀈 1 🀈 3 🀉 0 🀊 1 🀋 1 🀜 2 🀝 1 🀞 1 🀔 0 🀕 1 🀕 2 🀖 1 🀖 2 🀗 1
+  Machi: 🀉 0
+  Dora Indicator: 🀃 0
+  Ura Dora: 🀕 0
+  Yaku:
+      Reach                ( 1):  1 [Han]
+      Ippatsu              ( 2):  1 [Han]
+      Pin-fu               ( 7):  1 [Han]
+      Tan-yao-chu          ( 8):  1 [Han]
+      Aka-dora             (54):  1 [Han]
+      Ura-dora             (53):  2 [Han]
+  Fu: 30
+  Score: 18000
+    - Haneman
+  Ten-bou:
+    Combo: 0
+    Reach: 2
+  Scores:
+     24000:  20000
+     25000:      0
+     25000:      0
+     24000: -18000
+========================================
+Initial Game State:
+  Round: Ton 1 Kyoku
+  Combo: 1
+  Reach: 0
+  Dice 1: 4
+  Dice 2: 2
+  Dora Indicator: 🀀 0
+  Initial Scores:
+       0:  44000
+       1:  25000
+       2:  25000
+       3:   6000
+  Dealer: 0
+  Initial Hands:
+      0: 🀈 1 🀏 0 🀝 0 🀑 1 🀒 3 🀔 0 🀕 3 🀖 3 🀗 1 🀗 2 🀁 0 🀁 1 🀁 3
+      1: 🀍 1 🀍 3 🀎 0 🀚 3 🀛 0 🀛 1 🀜 1 🀞 0 🀡 0 🀒 1 🀂 1 🀅 1 🀄 3
+      2: 🀈 0 🀈 2 🀋 1 🀋 3 🀌 3 🀏 1 🀚 0 🀡 1 🀓 3 🀔 2 🀕 0 🀂 0 🀂 2
+      3: 🀇 0 🀉 2 🀋 2 🀍 0 🀙 1 🀙 2 🀚 2 🀟 2 🀠 3 🀑 2 🀓 1 🀕 1 🀄 0
+Player 0: Draw    🀜 0
+Player 0: Discard 🀏 0
+Player 1: Draw    🀘 0
+Player 1: Discard 🀂 1
+Player 2: Pon from player 1: 🀂 1🀂 0🀂 2
+Player 2: Discard 🀏 1
+Player 3: Draw    🀘 1
+Player 3: Discard 🀘 1
+Player 0: Draw    🀊 2
+Player 0: Discard 🀈 1
+Player 2: Pon from player 0: 🀈 2🀈 1🀈 0
+Player 2: Discard 🀡 1
+Player 3: Draw    🀂 3
+Player 3: Discard 🀂 3
+Player 0: Draw    🀖 0
+Player 0: Discard 🀊 2
+Player 1: Draw    🀟 0
+Player 1: Discard 🀅 1
+Player 2: Draw    🀈 3
+Player 2: KaKan: 🀈 0🀈 3🀈 1🀈 2
+Player 2: Draw    🀘 2
+New Dora Indicator: 🀖 2
+Player 2: Discard 🀘 2
+Player 3: Draw    🀊 0
+Player 3: Discard 🀄 0
+Player 0: Draw    🀀 2
+Player 0: Discard 🀀 2
+Player 1: Draw    🀗 3
+Player 1: Discard 🀄 3
+Player 2: Draw    🀅 2
+Player 2: Discard 🀅 2
+Player 3: Draw    🀆 3
+Player 3: Discard 🀆 3
+Player 0: Draw    🀃 3
+Player 0: Discard 🀃 3
+Player 1: Draw    🀉 3
+Player 1: Discard 🀉 3
+Player 2: Draw    🀠 0
+Player 2: Discard 🀠 0
+Player 3: Draw    🀃 1
+Player 3: Discard 🀃 1
+Player 0: Draw    🀠 1
+Player 0: Discard 🀠 1
+Player 1: Draw    🀄 2
+Player 1: Discard 🀄 2
+Player 2: Draw    🀇 3
+Player 2: Discard 🀇 3
+Player 3: Draw    🀜 3
+Player 3: Discard 🀇 0
+Player 0: Draw    🀅 3
+Player 0: Discard 🀅 3
+Player 1: Draw    🀔 1
+Player 1: Discard 🀡 0
+Player 2: Draw    🀞 2
+Player 2: Discard 🀚 0
+Player 3: Draw    🀙 3
+Player 3: Discard 🀍 0
+Player 0: Draw    🀅 0
+Player 0: Discard 🀅 0
+Player 1: Draw    🀓 0
+Player 1: Discard 🀛 1
+Player 2: Draw    🀇 2
+Player 2: Discard 🀇 2
+Player 3: Draw    🀑 3
+Player 3: Discard 🀜 3
+Player 0: Draw    🀐 3
+Player 0: Reach
+Player 0: Discard 🀖 3
+Player 0 made deposite.
+New scores:
+       0:  43000
+       1:  25000
+       2:  25000
+       3:   6000
+Player 1: Draw    🀐 1
+Player 1: Discard 🀍 1
+Player 2: Draw    🀐 2
+Player 2: Discard 🀌 3
+Player 3: Draw    🀛 2
+Player 3: Discard 🀊 0
+Player 0: Draw    🀘 3
+Player 0: Discard 🀘 3
+Player 1: Draw    🀡 2
+Player 1: Discard 🀘 0
+Player 2: Draw    🀎 2
+Player 2: Discard 🀎 2
+Player 3: Draw    🀌 2
+Player 3: Discard 🀌 2
+Player 0: Draw    🀝 2
+Player 0: Discard 🀝 2
+Player 1: Draw    🀇 1
+Player 1: Discard 🀎 0
+Player 2: Draw    🀎 3
+Player 2: Discard 🀎 3
+Player 3: Draw    🀌 1
+Player 3: Discard 🀌 1
+Player 0: Draw    🀟 1
+Player 0: Discard 🀟 1
+Player 1: Draw    🀟 3
+Player 1: Discard 🀟 3
+Player 2: Draw    🀗 0
+Player 2: Discard 🀋 3
+Player 3: Draw    🀍 2
+Player 3: Discard 🀋 2
+Player 0: Draw    🀀 1
+Player 0: Discard 🀀 1
+Player 1: Draw    🀊 3
+Player 1: Discard 🀇 1
+Player 2: Draw    🀆 0
+Player 2: Discard 🀋 1
+Player 3: Draw    🀚 1
+Player 3: Discard 🀟 2
+Player 0: Draw    🀜 2
+Player 0: Discard 🀜 2
+Player 1: Draw    🀋 0
+Player 1: Discard 🀍 3
+Player 2: Draw    🀆 2
+Player 2: Discard 🀆 0
+Player 3: Draw    🀠 2
+Player 3: Discard 🀍 2
+Player 0: Draw    🀝 3
+Player 0: Discard 🀝 3
+Player 1: Draw    🀙 0
+Player 1: Discard 🀜 1
+Player 2: Draw    🀌 0
+Player 2: Discard 🀆 2
+Player 3: Draw    🀏 2
+Player 3: Discard 🀙 2
+Player 0: Draw    🀕 2
+Player 0: Discard 🀕 2
+Player 1: Chi from player 0: 🀕 2🀓 0🀔 1
+Player 1: Discard 🀡 2
+Player 2: Draw    🀎 1
+Player 2: Discard 🀎 1
+Player 3: Draw    🀒 0
+Player 3: Discard 🀙 3
+Player 0: Draw    🀖 1
+Player 0: Discard 🀖 1
+Player 1: Draw    🀛 3
+Player 1: Discard 🀋 0
+Player 2: Draw    🀃 2
+Player 2: Discard 🀃 2
+Player 3: Draw    🀁 2
+Player 3: Discard 🀙 1
+Player 0: Draw    🀏 3
+Player 0: Discard 🀏 3
+Player 1: Draw    🀒 2
+Player 1: Discard 🀊 3
+Player 2: Draw    🀉 1
+Player 2: Discard 🀌 0
+Player 3: Draw    🀔 3
+Player 3: Discard 🀠 3
+Player 0: Draw    🀉 0
+Player 0: Discard 🀉 0
+Ryukyoku:
+Player 0: 🀜 0 🀝 0 🀐 3 🀑 1 🀒 3 🀔 0 🀕 3 🀖 0 🀗 1 🀗 2 🀁 0 🀁 1 🀁 3
+  Scores:
+     43000:   3000
+     25000:  -1000
+     25000:  -1000
+      6000:  -1000
+  Ten-bou:
+    Combo: 1
+    Reach: 1
+========================================
+Initial Game State:
+  Round: Ton 1 Kyoku
+  Combo: 2
+  Reach: 1
+  Dice 1: 5
+  Dice 2: 2
+  Dora Indicator: 🀜 3
+  Initial Scores:
+       0:  46000
+       1:  24000
+       2:  24000
+       3:   5000
+  Dealer: 0
+  Initial Hands:
+      0: 🀈 0 🀊 0 🀊 2 🀋 2 🀍 1 🀛 2 🀛 3 🀞 2 🀠 1 🀐 2 🀔 0 🀗 1 🀘 3
+      1: 🀇 0 🀇 2 🀈 1 🀏 1 🀛 1 🀝 1 🀞 1 🀠 0 🀑 3 🀕 2 🀁 1 🀃 1 🀃 3
+      2: 🀈 3 🀌 0 🀌 1 🀍 3 🀚 1 🀟 1 🀑 1 🀓 3 🀔 2 🀖 0 🀀 0 🀃 2 🀆 1
+      3: 🀎 2 🀎 3 🀜 2 🀞 3 🀡 2 🀒 2 🀓 2 🀔 1 🀖 3 🀘 2 🀂 0 🀆 3 🀅 1
+Player 0: Draw    🀓 1
+Player 0: Discard 🀐 2
+Player 1: Draw    🀗 2
+Player 1: Discard 🀏 1
+Player 2: Draw    🀁 3
+Player 2: Discard 🀁 3
+Player 3: Draw    🀋 1
+Player 3: Discard 🀋 1
+Player 0: Draw    🀕 3
+Player 3 has left the game.
+Player 0: Discard 🀘 3
+Player 3 (安達さくら) has returned to the game.
+Player 1: Draw    🀄 2
+Player 1: Discard 🀁 1
+Player 2: Draw    🀂 1
+Player 2: Discard 🀃 2
+Player 3: Draw    🀁 0
+Player 3: Discard 🀁 0
+Player 0: Draw    🀙 2
+Player 0: Discard 🀗 1
+Player 1: Draw    🀀 1
+Player 1: Discard 🀑 3
+Player 2: Draw    🀉 1
+Player 2: Discard 🀀 0
+Player 3: Draw    🀂 3
+Player 3: Discard 🀡 2
+Player 0: Draw    🀆 2
+Player 0: Discard 🀆 2
+Player 1: Draw    🀈 2
+Player 1: Discard 🀠 0
+Player 2: Draw    🀒 0
+Player 2: Discard 🀆 1
+Player 3: Draw    🀋 0
+Player 3: Discard 🀆 3
+Player 0: Draw    🀟 2
+Player 0: Discard 🀙 2
+Player 1: Draw    🀐 1
+Player 1: Discard 🀐 1
+Player 2: Draw    🀖 1
+Player 2: Discard 🀂 1
+Player 3: Draw    🀘 0
+Player 3: Discard 🀅 1
+Player 0: Draw    🀍 0
+Player 0: Discard 🀈 0
+Player 1: Draw    🀔 3
+Player 1: Discard 🀗 2
+Player 2: Draw    🀇 3
+Player 2: Discard 🀚 1
+Player 3: Draw    🀗 0
+Player 3: Discard 🀘 2
+Player 0: Draw    🀉 2
+Player 0: Discard 🀊 2
+Player 1: Draw    🀐 3
+Player 1: Discard 🀐 3
+Player 2: Draw    🀄 1
+Player 2: Discard 🀄 1
+Player 3: Draw    🀄 3
+Player 3: Discard 🀄 3
+Player 0: Draw    🀊 1
+Player 0: Discard 🀊 1
+Player 1: Draw    🀆 0
+Player 1: Discard 🀛 1
+Player 0 wins.
+  Ron from player 1
+  Hand: 🀉 2 🀊 0 🀋 2 🀍 0 🀍 1 🀛 1 🀛 2 🀛 3 🀞 2 🀟 2 🀠 1 🀓 1 🀔 0 🀕 3
+  Machi: 🀛 1
+  Dora Indicator: 🀜 3
+  Yaku:
+      Tan-yao-chu          ( 8):  1 [Han]
+      Aka-dora             (54):  1 [Han]
+  Fu: 40
+  Score: 3900
+  Ten-bou:
+    Combo: 2
+    Reach: 1
+  Scores:
+     46000:   5500
+     24000:  -4500
+     24000:      0
+      5000:      0
+========================================
+Initial Game State:
+  Round: Ton 1 Kyoku
+  Combo: 3
+  Reach: 0
+  Dice 1: 5
+  Dice 2: 4
+  Dora Indicator: 🀌 1
+  Initial Scores:
+       0:  51500
+       1:  19500
+       2:  24000
+       3:   5000
+  Dealer: 0
+  Initial Hands:
+      0: 🀉 2 🀎 2 🀛 0 🀟 1 🀒 3 🀓 2 🀕 1 🀖 1 🀖 3 🀘 3 🀂 2 🀃 3 🀅 1
+      1: 🀉 0 🀉 3 🀎 3 🀙 0 🀚 3 🀡 1 🀡 3 🀓 3 🀖 2 🀗 1 🀂 0 🀂 3 🀄 0
+      2: 🀇 1 🀊 2 🀌 3 🀚 2 🀞 1 🀠 1 🀐 0 🀑 1 🀁 0 🀃 2 🀆 2 🀅 2 🀄 3
+      3: 🀉 1 🀊 3 🀌 0 🀌 2 🀚 0 🀚 1 🀝 3 🀟 2 🀐 3 🀑 2 🀔 2 🀗 2 🀁 3
+Player 0: Draw    🀝 2
+Player 0: Discard 🀂 2
+Player 1: Draw    🀞 2
+Player 1: Discard 🀄 0
+Player 2: Draw    🀈 1
+Player 2: Discard 🀁 0
+Player 3: Draw    🀐 1
+Player 3: Discard 🀁 3
+Player 0: Draw    🀟 3
+Player 0: Discard 🀃 3
+Player 1: Draw    🀇 2
+Player 1: Discard 🀞 2
+Player 2: Draw    🀕 3
+Player 2: Discard 🀃 2
+Player 3: Draw    🀘 2
+Player 3: Discard 🀔 2
+Player 0: Draw    🀛 2
+Player 0: Discard 🀘 3
+Player 1: Draw    🀟 0
+Player 1: Discard 🀓 3
+Player 2: Draw    🀆 0
+Player 2: Discard 🀇 1
+Player 3: Draw    🀏 3
+Player 3: Discard 🀏 3
+Player 0: Draw    🀋 2
+Player 0: Discard 🀎 2
+Player 1: Draw    🀋 3
+Player 1: Discard 🀋 3
+Player 2: Draw    🀀 3
+Player 2: Discard 🀚 2
+Player 3: Draw    🀐 2
+Player 3: Discard 🀑 2
+Player 0: Draw    🀍 1
+Player 0: Discard 🀅 1
+Player 1: Draw    🀕 2
+Player 1: Discard 🀉 3
+Player 2: Draw    🀒 0
+Player 2: Discard 🀀 3
+Player 3: Draw    🀡 0
+Player 3: Discard 🀚 1
+Player 0: Draw    🀗 3
+Player 0: Discard 🀖 3
+Player 1: Draw    🀈 3
+Player 1: Discard 🀡 1
+Player 2: Draw    🀔 0
+Player 2: Discard 🀅 2
+Player 3: Draw    🀠 2
+Player 3: Discard 🀚 0
+Player 0: Draw    🀎 0
+Player 0: Discard 🀎 0
+Player 1: Draw    🀏 0
+Player 1: Discard 🀚 3
+Player 2: Draw    🀎 1
+Player 2: Discard 🀄 3
+Player 3: Draw    🀠 3
+Player 3: Discard 🀠 3
+Player 0: Draw    🀒 2
+Player 0: Discard 🀒 2
+Player 1: Draw    🀘 0
+Player 1: Discard 🀕 2
+Player 2: Draw    🀓 0
+Player 2: Discard 🀈 1
+Player 3: Draw    🀡 2
+Player 3: Discard 🀡 2
+Player 0: Draw    🀊 1
+Player 0: Discard 🀍 1
+Player 1: Chi from player 0: 🀍 1🀎 3🀏 0
+Player 1: Discard 🀙 0
+Player 2: Draw    🀒 1
+Player 2: Discard 🀒 1
+Player 3: Draw    🀞 0
+Player 3: Discard 🀗 2
+Player 0: Draw    🀀 1
+Player 0: Discard 🀀 1
+Player 1: Draw    🀔 3
+Player 1: Discard 🀔 3
+Player 2: Draw    🀋 1
+Player 2: Reach
+Player 2: Discard 🀎 1
+Player 2 made deposite.
+New scores:
+       0:  51500
+       1:  19500
+       2:  23000
+       3:   5000
+Player 3: Draw    🀙 1
+Player 3: Discard 🀙 1
+Player 0: Draw    🀍 2
+Player 0: Discard 🀒 3
+Player 1: Draw    🀇 0
+Player 1: Discard 🀇 0
+Player 2: Draw    🀅 3
+Player 2: Discard 🀅 3
+Player 3: Draw    🀈 2
+Player 3: Reach
+Player 3: Discard 🀘 2
+Player 3 made deposite.
+New scores:
+       0:  51500
+       1:  19500
+       2:  23000
+       3:   4000
+Player 0: Draw    🀘 1
+Player 0: Discard 🀘 1
+Player 1: Draw    🀙 3
+Player 1: Discard 🀙 3
+Player 2: Draw    🀁 2
+Player 2: Discard 🀁 2
+Player 3: Draw    🀜 0
+Player 3 wins.
+  Tsumo.
+  Hand: 🀈 2 🀉 1 🀊 3 🀌 0 🀌 2 🀜 0 🀝 3 🀞 0 🀟 2 🀠 2 🀡 0 🀐 1 🀐 2 🀐 3
+  Machi: 🀜 0
+  Dora Indicator: 🀌 1
+  Ura Dora: 🀄 2
+  Yaku:
+      Reach                ( 1):  1 [Han]
+      Ippatsu              ( 2):  1 [Han]
+      Tsumo                ( 0):  1 [Han]
+      Ura-dora             (53):  0 [Han]
+  Fu: 30
+  Score: 4000
+  Ten-bou:
+    Combo: 3
+    Reach: 2
+  Scores:
+     51500:  -2300
+     19500:  -1300
+     23000:  -1300
+      4000:   6900
+========================================
+Initial Game State:
+  Round: Ton 2 Kyoku
+  Combo: 0
+  Reach: 0
+  Dice 1: 5
+  Dice 2: 2
+  Dora Indicator: 🀘 1
+  Initial Scores:
+       0:  49200
+       1:  18200
+       2:  21700
+       3:  10900
+  Dealer: 1
+  Initial Hands:
+      0: 🀇 1 🀉 0 🀋 1 🀙 2 🀚 2 🀜 1 🀞 1 🀠 1 🀑 3 🀔 2 🀕 3 🀘 3 🀅 3
+      1: 🀇 0 🀋 3 🀌 2 🀍 0 🀏 3 🀙 3 🀡 0 🀘 2 🀀 0 🀀 3 🀂 3 🀅 2 🀄 1
+      2: 🀈 3 🀍 1 🀎 1 🀜 2 🀝 0 🀝 1 🀟 0 🀑 2 🀖 1 🀃 2 🀆 0 🀅 1 🀄 3
+      3: 🀉 3 🀊 1 🀊 2 🀊 3 🀋 2 🀍 2 🀚 1 🀛 0 🀒 1 🀔 1 🀔 3 🀁 3 🀆 2
+Player 1: Draw    🀇 3
+Player 1: Discard 🀘 2
+Player 2: Draw    🀃 3
+Player 2: Discard 🀆 0
+Player 3: Draw    🀖 0
+Player 3: Discard 🀁 3
+Player 0: Draw    🀒 3
+Player 0: Discard 🀘 3
+Player 1: Draw    🀐 2
+Player 1: Discard 🀡 0
+Player 2: Draw    🀐 1
+Player 2: Discard 🀅 1
+Player 3: Draw    🀑 0
+Player 3: Discard 🀆 2
+Player 0: Draw    🀄 2
+Player 0: Discard 🀙 2
+Player 1: Draw    🀗 0
+Player 1: Discard 🀗 0
+Player 2: Draw    🀏 2
+Player 2: Discard 🀄 3
+Player 3: Draw    🀌 3
+Player 3: Discard 🀉 3
+Player 0: Draw    🀜 3
+Player 0: Discard 🀄 2
+Player 1: Draw    🀞 0
+Player 1: Discard 🀙 3
+Player 2: Draw    🀊 0
+Player 2: Discard 🀖 1
+Player 3: Draw    🀡 3
+Player 3: Discard 🀡 3
+Player 0: Draw    🀓 3
+Player 0: Discard 🀅 3
+Player 1: Draw    🀃 1
+Player 1: Discard 🀞 0
+Player 2: Draw    🀑 1
+Player 2: Discard 🀟 0
+Player 3: Draw    🀎 2
+Player 3: Discard 🀎 2
+Player 0: Draw    🀛 3
+Player 0: Discard 🀇 1
+Player 1: Pon from player 0: 🀇 1🀇 0🀇 3
+Player 1: Discard 🀐 2
+Player 2: Draw    🀞 3
+Player 2: Discard 🀝 1
+Player 3: Draw    🀁 2
+Player 3: Discard 🀁 2
+Player 0: Draw    🀞 2
+Player 0: Discard 🀠 1
+Player 1: Draw    🀔 0
+Player 1: Discard 🀔 0
+Player 2: Draw    🀏 1
+Player 2: Discard 🀏 1
+Player 3: Draw    🀃 0
+Player 3: Discard 🀃 0
+Player 0: Draw    🀒 0
+Player 0: Discard 🀜 3
+Player 1: Draw    🀆 1
+Player 1: Discard 🀆 1
+Player 2: Draw    🀈 1
+Player 2: Discard 🀑 1
+Player 3: Draw    🀐 3
+Player 3: Reach
+Player 3: Discard 🀖 0
+Player 3 made deposite.
+New scores:
+       0:  49200
+       1:  18200
+       2:  21700
+       3:   9900
+Player 0: Draw    🀄 0
+Player 0: Discard 🀄 0
+Player 1: Draw    🀙 0
+Player 1: Discard 🀄 1
+Player 2: Draw    🀅 0
+Player 2: Discard 🀅 0
+Player 3: Draw    🀚 0
+Player 3: Discard 🀚 0
+Player 0: Draw    🀐 0
+Player 0: Discard 🀚 2
+Player 1: Draw    🀕 0
+Player 1: Discard 🀅 2
+Player 2: Draw    🀖 3
+Player 2: Discard 🀖 3
+Player 3: Draw    🀌 0
+Player 3: Discard 🀌 0
+Player 0: Draw    🀕 2
+Player 0: Discard 🀉 0
+Player 1: Draw    🀌 1
+Player 1: Discard 🀃 1
+Player 2: Draw    🀏 0
+Player 2: Discard 🀏 0
+Player 3: Draw    🀓 1
+Player 3: Discard 🀓 1
+Player 0: Draw    🀠 2
+Player 0: Discard 🀓 3
+Player 1: Draw    🀎 3
+Player 1: Discard 🀌 2
+Player 2: Draw    🀡 1
+Player 2: Discard 🀡 1
+Player 3: Draw    🀟 1
+Player 3: Discard 🀟 1
+Player 0: Draw    🀉 1
+Player 0: Discard 🀉 1
+Player 1: Draw    🀚 3
+Player 1: Discard 🀎 3
+Player 2: Draw    🀜 0
+Player 2: Discard 🀃 2
+Player 3: Draw    🀓 0
+Player 3: Discard 🀓 0
+Player 0: Draw    🀙 1
+Player 0: Discard 🀋 1
+Player 1: Draw    🀂 0
+Player 1: Discard 🀏 3
+Player 2: Draw    🀀 2
+Player 2: Discard 🀃 3
+Player 3: Draw    🀟 3
+Player 3: Discard 🀟 3
+Player 0: Draw    🀛 2
+Player 0: Discard 🀠 2
+Player 1: Draw    🀗 2
+Player 1: Discard 🀚 3
+Player 2: Draw    🀕 1
+Player 2: Discard 🀏 2
+Player 3: Draw    🀎 0
+Player 3: Discard 🀎 0
+Player 0: Draw    🀂 1
+Player 0: Discard 🀂 1
+Player 1: Draw    🀉 2
+Player 1: Discard 🀉 2
+Player 2: Draw    🀇 2
+Player 2: Discard 🀎 1
+Player 3: Draw    🀆 3
+Player 3: Discard 🀆 3
+Player 0: Draw    🀀 1
+Player 0: Discard 🀐 0
+Player 1: Draw    🀟 2
+Player 1: Discard 🀟 2
+Player 2: Draw    🀠 3
+Player 2: Discard 🀐 1
+Player 3: Draw    🀡 2
+Player 3: Discard 🀡 2
+Player 0: Draw    🀗 1
+Player 0: Discard 🀙 1
+Player 3 wins.
+  Ron from player 0
+  Hand: 🀊 1 🀊 2 🀊 3 🀋 2 🀌 3 🀍 2 🀙 1 🀚 1 🀛 0 🀐 3 🀑 0 🀒 1 🀔 1 🀔 3
+  Machi: 🀙 1
+  Dora Indicator: 🀘 1
+  Ura Dora: 🀁 1
+  Yaku:
+      Reach                ( 1):  1 [Han]
+      Dora                 (52):  1 [Han]
+      Ura-dora             (53):  0 [Han]
+  Fu: 40
+  Score: 2600
+  Ten-bou:
+    Combo: 0
+    Reach: 1
+  Scores:
+     49200:  -2600
+     18200:      0
+     21700:      0
+      9900:   3600
+========================================
+Initial Game State:
+  Round: Ton 3 Kyoku
+  Combo: 0
+  Reach: 0
+  Dice 1: 3
+  Dice 2: 1
+  Dora Indicator: 🀅 3
+  Initial Scores:
+       0:  46600
+       1:  18200
+       2:  21700
+       3:  13500
+  Dealer: 2
+  Initial Hands:
+      0: 🀋 2 🀌 0 🀎 3 🀏 0 🀜 1 🀞 1 🀠 2 🀡 2 🀐 0 🀕 1 🀗 1 🀁 3 🀃 1
+      1: 🀊 3 🀚 3 🀛 0 🀡 0 🀐 1 🀑 2 🀑 3 🀒 1 🀕 2 🀘 1 🀀 0 🀀 3 🀃 0
+      2: 🀇 3 🀈 2 🀉 1 🀍 0 🀛 1 🀜 0 🀞 2 🀟 0 🀠 0 🀓 1 🀓 2 🀀 1 🀆 0
+      3: 🀋 0 🀋 3 🀍 3 🀏 1 🀛 3 🀜 2 🀟 3 🀔 0 🀕 3 🀖 3 🀗 2 🀁 2 🀃 2
+Player 2: Draw    🀍 1
+Player 2: Discard 🀆 0
+Player 3: Draw    🀉 0
+Player 3: Discard 🀃 2
+Player 0: Draw    🀕 0
+Player 0: Discard 🀐 0
+Player 1: Draw    🀈 3
+Player 1: Discard 🀘 1
+Player 2: Draw    🀔 3
+Player 2: Discard 🀀 1
+Player 3: Draw    🀂 2
+Player 3: Discard 🀂 2
+Player 0: Draw    🀌 1
+Player 0: Discard 🀡 2
+Player 1: Draw    🀜 3
+Player 1: Discard 🀃 0
+Player 2: Draw    🀍 2
+Player 2: Reach
+Player 2: Discard 🀔 3
+Player 2 made deposite.
+New scores:
+       0:  46600
+       1:  18200
+       2:  20700
+       3:  13500
+Player 3: Draw    🀉 3
+Player 3: Discard 🀁 2
+Player 0: Draw    🀡 1
+Player 0: Discard 🀁 3
+Player 1: Draw    🀟 1
+Player 1: Discard 🀀 3
+Player 2: Draw    🀎 0
+Player 2: Discard 🀎 0
+Player 3: Draw    🀅 2
+Player 3: Discard 🀅 2
+Player 0: Draw    🀇 1
+Player 0: Discard 🀎 3
+Player 1: Draw    🀠 1
+Player 1: Discard 🀀 0
+Player 2: Draw    🀈 0
+Player 2: Discard 🀈 0
+Player 3: Draw    🀘 0
+Player 3: Discard 🀏 1
+Player 0: Draw    🀆 2
+Player 0: Discard 🀆 2
+Player 1: Draw    🀂 3
+Player 1: Discard 🀈 3
+Player 2: Draw    🀗 3
+Player 2: Discard 🀗 3
+Player 3: Draw    🀐 3
+Player 3: Discard 🀐 3
+Player 0: Draw    🀎 1
+Player 0: Discard 🀗 1
+Player 1: Draw    🀝 3
+Player 1: Discard 🀐 1
+Player 2: Draw    🀅 1
+Player 2: Discard 🀅 1
+Player 3: Draw    🀟 2
+Player 3: Discard 🀋 3
+Player 0: Draw    🀑 1
+Player 0: Discard 🀃 1
+Player 1: Draw    🀞 0
+Player 1: Discard 🀂 3
+Player 2: Draw    🀚 0
+Player 2 wins.
+  Tsumo.
+  Hand: 🀇 3 🀈 2 🀉 1 🀍 0 🀍 1 🀍 2 🀚 0 🀛 1 🀜 0 🀞 2 🀟 0 🀠 0 🀓 1 🀓 2
+  Machi: 🀚 0
+  Dora Indicator: 🀅 3
+  Ura Dora: 🀐 2
+  Yaku:
+      Reach                ( 1):  1 [Han]
+      Tsumo                ( 0):  1 [Han]
+      Ura-dora             (53):  0 [Han]
+  Fu: 30
+  Score: 3000
+  Ten-bou:
+    Combo: 0
+    Reach: 1
+  Scores:
+     46600:  -1000
+     18200:  -1000
+     20700:   4000
+     13500:  -1000
+========================================
+Initial Game State:
+  Round: Ton 3 Kyoku
+  Combo: 1
+  Reach: 0
+  Dice 1: 3
+  Dice 2: 4
+  Dora Indicator: 🀑 3
+  Initial Scores:
+       0:  45600
+       1:  17200
+       2:  24700
+       3:  12500
+  Dealer: 2
+  Initial Hands:
+      0: 🀉 0 🀊 0 🀊 1 🀋 1 🀝 0 🀠 3 🀡 0 🀑 1 🀒 2 🀒 3 🀘 0 🀂 0 🀂 3
+      1: 🀈 2 🀋 2 🀍 1 🀚 2 🀝 2 🀞 2 🀔 3 🀗 3 🀘 2 🀀 3 🀁 3 🀆 1 🀅 0
+      2: 🀇 2 🀉 1 🀋 3 🀌 1 🀍 3 🀏 3 🀐 3 🀔 1 🀂 2 🀃 0 🀃 1 🀃 2 🀅 3
+      3: 🀇 3 🀌 2 🀙 1 🀚 3 🀜 0 🀜 1 🀞 0 🀐 2 🀓 1 🀕 0 🀕 3 🀖 1 🀗 1
+Player 2: Draw    🀓 0
+Player 2: Discard 🀐 3
+Player 3: Draw    🀡 1
+Player 3: Discard 🀡 1
+Player 0: Draw    🀊 2
+Player 0: Discard 🀘 0
+Player 1: Draw    🀁 1
+Player 1: Discard 🀀 3
+Player 2: Draw    🀌 0
+Player 2: Discard 🀂 2
+Player 0: Pon from player 2: 🀂 3🀂 2🀂 0
+Player 0: Discard 🀑 1
+Player 1: Draw    🀕 2
+Player 1: Discard 🀚 2
+Player 2: Draw    🀝 3
+Player 2: Discard 🀅 3
+Player 3: Draw    🀎 1
+Player 3: Discard 🀐 2
+Player 0: Draw    🀎 2
+Player 0: Discard 🀎 2
+Player 1: Draw    🀎 3
+Player 1: Discard 🀅 0
+Player 2: Draw    🀆 2
+Player 2: Discard 🀆 2
+Player 3: Draw    🀏 1
+Player 3: Discard 🀇 3
+Player 0: Draw    🀝 1
+Player 0: Discard 🀠 3
+Player 1: Draw    🀜 2
+Player 1: Discard 🀆 1
+Player 2: Draw    🀑 2
+Player 2: Discard 🀑 2
+Player 3: Draw    🀙 2
+Player 3: Discard 🀏 1
+Player 0: Draw    🀗 0
+Player 0: Discard 🀗 0
+Player 1: Draw    🀗 2
+Player 1: Discard 🀈 2
+Player 2: Draw    🀈 0
+Player 2: Discard 🀝 3
+Player 0: Pon from player 2: 🀝 1🀝 3🀝 0
+Player 0: Discard 🀡 0
+Player 1: Draw    🀡 2
+Player 1: Discard 🀡 2
+Player 2: Draw    🀈 1
+Player 2: Discard 🀈 1
+Player 3: Draw    🀞 3
+Player 3: Discard 🀎 1
+Player 0: Draw    🀀 2
+Player 0: Discard 🀀 2
+Player 1: Draw    🀙 3
+Player 1: Discard 🀘 2
+Player 2: Draw    🀈 3
+Player 2: Discard 🀈 3
+Player 3: Draw    🀌 3
+Player 3: Discard 🀗 1
+Player 0: Draw    🀔 2
+Player 0: Discard 🀔 2
+Player 1: Draw    🀠 2
+Player 1: Discard 🀠 2
+Player 2: Draw    🀄 3
+Player 2: Discard 🀄 3
+Player 3: Draw    🀟 1
+Player 3: Discard 🀟 1
+Player 0: Draw    🀛 1
+Player 0: Discard 🀛 1
+Player 1: Draw    🀟 2
+Player 1: Discard 🀗 2
+Player 2: Draw    🀒 0
+Player 2: Reach
+Player 2: Discard 🀌 1
+Player 2 made deposite.
+New scores:
+       0:  45600
+       1:  17200
+       2:  23700
+       3:  12500
+Player 3: Draw    🀉 3
+Player 3: Discard 🀌 2
+Player 0: Chi from player 3: 🀌 2🀊 0🀋 1
+Player 0: Discard 🀊 2
+Player 1: Draw    🀜 3
+Player 1: Discard 🀝 2
+Player 2: Draw    🀛 0
+Player 2: Discard 🀛 0
+Player 3: Draw    🀞 1
+Player 3: Discard 🀌 3
+Player 0: Draw    🀄 0
+Player 0: Discard 🀄 0
+Player 1: Draw    🀖 3
+Player 1: Discard 🀁 1
+Player 2: Draw    🀄 1
+Player 2: Discard 🀄 1
+Player 3: Draw    🀁 0
+Player 3: Discard 🀁 0
+Player 0: Draw    🀏 2
+Player 0: Discard 🀏 2
+Player 2 wins.
+  Ron from player 0
+  Hand: 🀇 2 🀈 0 🀉 1 🀋 3 🀌 0 🀍 3 🀏 2 🀏 3 🀒 0 🀓 0 🀔 1 🀃 0 🀃 1 🀃 2
+  Machi: 🀏 2
+  Dora Indicator: 🀑 3
+  Ura Dora: 🀘 1
+  Yaku:
+      Reach                ( 1):  1 [Han]
+      Dora                 (52):  1 [Han]
+      Ura-dora             (53):  0 [Han]
+  Fu: 40
+  Score: 3900
+  Ten-bou:
+    Combo: 1
+    Reach: 1
+  Scores:
+     45600:  -4200
+     17200:      0
+     23700:   5200
+     12500:      0
+========================================
+Initial Game State:
+  Round: Ton 3 Kyoku
+  Combo: 2
+  Reach: 0
+  Dice 1: 3
+  Dice 2: 3
+  Dora Indicator: 🀖 3
+  Initial Scores:
+       0:  41400
+       1:  17200
+       2:  28900
+       3:  12500
+  Dealer: 2
+  Initial Hands:
+      0: 🀊 1 🀊 3 🀙 3 🀛 1 🀜 0 🀟 0 🀟 3 🀠 0 🀑 0 🀑 2 🀓 0 🀕 1 🀀 2
+      1: 🀉 3 🀋 0 🀚 1 🀚 2 🀚 3 🀞 1 🀞 3 🀡 2 🀕 3 🀗 0 🀗 2 🀁 3 🀄 1
+      2: 🀌 0 🀌 2 🀏 3 🀝 0 🀠 2 🀐 1 🀒 0 🀓 1 🀔 1 🀀 0 🀆 1 🀆 2 🀄 0
+      3: 🀈 1 🀈 3 🀌 1 🀙 2 🀚 0 🀞 0 🀡 3 🀐 2 🀔 0 🀔 3 🀘 0 🀃 1 🀄 2
+Player 2: Draw    🀟 2
+Player 2: Discard 🀏 3
+Player 3: Draw    🀉 2
+Player 3: Discard 🀃 1
+Player 0: Draw    🀂 0
+Player 0: Discard 🀙 3
+Player 1: Draw    🀔 2
+Player 1: Discard 🀁 3
+Player 2: Draw    🀖 0
+Player 2: Discard 🀄 0
+Player 3: Draw    🀜 3
+Player 3: Discard 🀡 3
+Player 0: Draw    🀉 1
+Player 0: Discard 🀀 2
+Player 1: Draw    🀒 2
+Player 1: Discard 🀡 2
+Player 2: Draw    🀁 1
+Player 2: Discard 🀁 1
+Player 3: Draw    🀛 3
+Player 3: Discard 🀄 2
+Player 0: Draw    🀛 0
+Player 0: Discard 🀂 0
+Player 1: Draw    🀑 3
+Player 1: Discard 🀄 1
+Player 2: Draw    🀀 3
+Player 2: Discard 🀐 1
+Player 3: Draw    🀂 2
+Player 3: Discard 🀂 2
+Player 0: Draw    🀎 3
+Player 0: Discard 🀎 3
+Player 1: Draw    🀗 3
+Player 1: Discard 🀑 3
+Player 2: Draw    🀓 3
+Player 2: Discard 🀓 3
+Player 3: Draw    🀖 1
+Player 3: Discard 🀐 2
+Player 0: Draw    🀂 3
+Player 0: Discard 🀂 3
+Player 1: Draw    🀉 0
+Player 1: Discard 🀒 2
+Player 2: Draw    🀇 0
+Player 2: Discard 🀇 0
+Player 3: Draw    🀖 2
+Player 3: Discard 🀌 1
+Player 2: Pon from player 3: 🀌 0🀌 2🀌 1
+Player 2: Discard 🀖 0
+Player 3: Draw    🀝 1
+Player 3: Discard 🀈 1
+Player 0: Draw    🀅 2
+Player 0: Discard 🀓 0
+Player 1: Chi from player 0: 🀓 0🀔 2🀕 3
+Player 1: Discard 🀋 0
+Player 2: Draw    🀡 1
+Player 2: Discard 🀝 0
+Player 3: Draw    🀏 0
+Player 3: Discard 🀏 0
+Player 0: Draw    🀇 2
+Player 0: Discard 🀇 2
+Player 1: Draw    🀗 1
+Player 1: AnKan: 🀗 0🀗 1
+New Dora Indicator: 🀋 2
+Player 1: Draw    🀝 3
+Player 1: Discard 🀞 3
+Player 2: Draw    🀐 3
+Player 2: Discard 🀐 3
+Player 3: Draw    🀘 2
+Player 3: Discard 🀖 2
+Player 0: Draw    🀍 3
+Player 0: Discard 🀑 2
+Player 1: Draw    🀅 3
+Player 1: Discard 🀅 3
+Player 2: Draw    🀎 0
+Player 2: Discard 🀎 0
+Player 3: Draw    🀙 1
+Player 3: Discard 🀙 1
+Player 0: Draw    🀠 3
+Player 0: Discard 🀅 2
+Player 1: Draw    🀋 1
+Player 1: Discard 🀋 1
+Player 2: Draw    🀊 0
+Player 2: Discard 🀊 0
+Player 3: Draw    🀈 0
+Player 3: Discard 🀈 0
+Player 0: Draw    🀍 2
+Player 0: Discard 🀑 0
+Player 1: Draw    🀒 1
+Player 1: Discard 🀒 1
+Player 2: Draw    🀟 1
+Player 2: Discard 🀟 1
+Player 1 wins.
+  Ron from player 2
+  Hand: 🀉 0 🀉 3 🀚 1 🀚 2 🀚 3 🀝 3 🀞 1 🀟 1
+  Machi: 🀟 1
+  Dora Indicator: 🀖 3 🀋 2
+  Yaku:
+      Tan-yao-chu          ( 8):  1 [Han]
+      Dora                 (52):  4 [Han]
+  Fu: 40
+  Score: 8000
+    - Mangan
+  Ten-bou:
+    Combo: 2
+    Reach: 0
+  Scores:
+     41400:      0
+     17200:   8600
+     28900:  -8600
+     12500:      0
+========================================
+Initial Game State:
+  Round: Ton 4 Kyoku
+  Combo: 0
+  Reach: 0
+  Dice 1: 5
+  Dice 2: 2
+  Dora Indicator: 🀁 0
+  Initial Scores:
+       0:  41400
+       1:  25800
+       2:  20300
+       3:  12500
+  Dealer: 3
+  Initial Hands:
+      0: 🀈 1 🀉 2 🀎 1 🀚 2 🀠 1 🀠 3 🀕 1 🀕 2 🀗 3 🀀 2 🀆 0 🀅 0 🀄 0
+      1: 🀊 3 🀋 1 🀎 3 🀚 0 🀜 0 🀝 0 🀝 3 🀞 3 🀟 0 🀟 2 🀠 2 🀒 2 🀂 1
+      2: 🀍 3 🀏 1 🀚 1 🀛 0 🀜 3 🀞 2 🀟 3 🀒 3 🀓 2 🀘 2 🀂 3 🀆 2 🀄 2
+      3: 🀇 3 🀈 0 🀉 1 🀊 0 🀎 0 🀏 0 🀛 2 🀛 3 🀝 2 🀘 0 🀘 3 🀆 1 🀆 3
+Player 3: Draw    🀋 0
+Player 3: Discard 🀘 0
+Player 0: Draw    🀙 3
+Player 0: Discard 🀀 2
+Player 1: Draw    🀊 2
+Player 1: Discard 🀂 1
+Player 2: Draw    🀅 1
+Player 2: Discard 🀄 2
+Player 3: Draw    🀀 0
+Player 3: Discard 🀘 3
+Player 0: Draw    🀝 1
+Player 0: Discard 🀆 0
+Player 3: Pon from player 0: 🀆 1🀆 3🀆 0
+Player 3: Discard 🀝 2
+Player 0: Draw    🀃 3
+Player 0: Discard 🀅 0
+Player 1: Draw    🀞 1
+Player 1: Discard 🀎 3
+Player 2: Draw    🀐 2
+Player 2: Discard 🀅 1
+Player 3: Draw    🀡 3
+Player 3: Discard 🀡 3
+Player 0: Draw    🀈 3
+Player 0: Discard 🀃 3
+Player 1: Draw    🀞 0
+Player 1: Discard 🀚 0
+Player 2: Draw    🀇 2
+Player 2: Discard 🀇 2
+Player 3: Draw    🀂 0
+Player 3: Discard 🀛 3
+Player 0: Draw    🀖 3
+Player 0: Discard 🀄 0
+Player 1: Draw    🀚 3
+Player 1: Discard 🀚 3
+Player 2: Draw    🀍 0
+Player 2: Discard 🀐 2
+Player 3: Draw    🀁 3
+Player 3: Discard 🀛 2
+Player 0: Draw    🀉 0
+Player 0: Discard 🀎 1
+Player 1: Draw    🀒 1
+Player 1: Reach
+Player 1: Discard 🀊 2
+Player 1 made deposite.
+New scores:
+       0:  41400
+       1:  24800
+       2:  20300
+       3:  12500
+Player 2: Draw    🀘 1
+Player 2: Discard 🀂 3
+Player 3: Draw    🀋 2
+Player 3: Discard 🀂 0
+Player 0: Draw    🀒 0
+Player 0: Discard 🀚 2
+Player 1: Draw    🀀 1
+Player 1: Discard 🀀 1
+Player 2: Draw    🀋 3
+Player 2: Discard 🀆 2
+Player 3: Draw    🀗 1
+Player 3: Discard 🀀 0
+Player 0: Draw    🀄 1
+Player 0: Discard 🀄 1
+Player 1: Draw    🀏 3
+Player 1: Discard 🀏 3
+Player 2: Draw    🀇 0
+Player 2: Discard 🀏 1
+Player 3: Draw    🀓 1
+Player 3: Discard 🀁 3
+Player 0: Draw    🀁 2
+Player 0: Discard 🀁 2
+Player 1: Draw    🀏 2
+Player 1: Discard 🀏 2
+Player 2: Draw    🀗 2
+Player 2: Discard 🀚 1
+Player 3: Draw    🀇 1
+Player 3: Discard 🀏 0
+Player 0: Draw    🀃 2
+Player 0: Discard 🀃 2
+Player 1: Draw    🀍 2
+Player 1: Discard 🀍 2
+Player 2: Draw    🀃 0
+Player 2: Discard 🀍 3
+Player 3: Draw    🀄 3
+Player 3: Discard 🀄 3
+Player 0: Draw    🀠 0
+Player 0: Discard 🀙 3
+Player 1: Draw    🀅 3
+Player 1: Discard 🀅 3
+Player 2: Draw    🀑 1
+Player 2: Discard 🀍 0
+Player 3: Draw    🀖 1
+Player 3: Discard 🀎 0
+Player 0: Draw    🀈 2
+Player 0: Discard 🀈 2
+Player 1: Draw    🀌 1
+Player 1 wins.
+  Tsumo.
+  Hand: 🀊 3 🀋 1 🀌 1 🀜 0 🀝 0 🀝 3 🀞 0 🀞 1 🀞 3 🀟 0 🀟 2 🀠 2 🀒 1 🀒 2
+  Machi: 🀌 1
+  Dora Indicator: 🀁 0
+  Ura Dora: 🀜 1
+  Yaku:
+      Reach                ( 1):  1 [Han]
+      Tsumo                ( 0):  1 [Han]
+      Pin-fu               ( 7):  1 [Han]
+      Tan-yao-chu          ( 8):  1 [Han]
+      Aka-dora             (54):  1 [Han]
+      Ura-dora             (53):  2 [Han]
+  Fu: 20
+  Score: 12000
+    - Haneman
+  Ten-bou:
+    Combo: 0
+    Reach: 1
+  Scores:
+     41400:  -3000
+     24800:  13000
+     20300:  -3000
+     12500:  -6000
+========================================
+Initial Game State:
+  Round: Nan 1 Kyoku
+  Combo: 0
+  Reach: 0
+  Dice 1: 0
+  Dice 2: 5
+  Dora Indicator: 🀃 1
+  Initial Scores:
+       0:  38400
+       1:  37800
+       2:  17300
+       3:   6500
+  Dealer: 0
+  Initial Hands:
+      0: 🀈 2 🀉 2 🀉 3 🀊 1 🀋 2 🀎 3 🀏 0 🀙 3 🀝 2 🀠 0 🀠 3 🀘 0 🀘 2
+      1: 🀋 0 🀌 3 🀍 3 🀙 1 🀟 1 🀐 0 🀒 0 🀒 1 🀓 0 🀗 3 🀁 1 🀆 0 🀆 1
+      2: 🀇 1 🀌 0 🀌 1 🀚 1 🀛 3 🀜 1 🀞 0 🀞 1 🀞 3 🀟 0 🀡 2 🀐 2 🀂 3
+      3: 🀇 0 🀉 1 🀎 2 🀙 2 🀚 2 🀜 3 🀝 0 🀟 2 🀠 2 🀡 1 🀀 1 🀁 2 🀂 1
+Player 0: Draw    🀑 3
+Player 0: Discard 🀙 3
+Player 1: Draw    🀎 1
+Player 1: Discard 🀙 1
+Player 2: Draw    🀔 0
+Player 2: Discard 🀂 3
+Player 3: Draw    🀀 3
+Player 3: Discard 🀂 1
+Player 0: Draw    🀂 2
+Player 0: Discard 🀂 2
+Player 1: Draw    🀖 3
+Player 1: Discard 🀐 0
+Player 2: Draw    🀋 1
+Player 2: Discard 🀇 1
+Player 3: Draw    🀓 1
+Player 3: Discard 🀎 2
+Player 0: Draw    🀈 0
+Player 0: Discard 🀑 3
+Player 1: Draw    🀒 2
+Player 1: Discard 🀁 1
+Player 2: Draw    🀍 0
+Player 2: Discard 🀐 2
+Player 3: Draw    🀐 1
+Player 3: Discard 🀐 1
+Player 0: Draw    🀅 3
+Player 0: Discard 🀅 3
+Player 1: Draw    🀌 2
+Player 1: Discard 🀟 1
+Player 2: Draw    🀍 1
+Player 2: Discard 🀡 2
+Player 3: Draw    🀄 1
+Player 3: Discard 🀁 2
+Player 0: Draw    🀓 3
+Player 0: Discard 🀓 3
+Player 1: Draw    🀁 0
+Player 1: Discard 🀁 0
+Player 2: Draw    🀗 0
+Player 2: Discard 🀗 0
+Player 3: Draw    🀊 0
+Player 3: Discard 🀇 0
+Player 0: Draw    🀊 3
+Player 0: Discard 🀋 2
+Player 1: Draw    🀙 0
+Player 1: Discard 🀙 0
+Player 2: Draw    🀔 2
+Player 2: Reach
+Player 2: Discard 🀟 0
+Player 2 made deposite.
+New scores:
+       0:  38400
+       1:  37800
+       2:  16300
+       3:   6500
+Player 3: Draw    🀂 0
+Player 3: Discard 🀂 0
+Player 0: Draw    🀗 1
+Player 0: Discard 🀗 1
+Player 1: Draw    🀃 3
+Player 1: Discard 🀗 3
+Player 2: Draw    🀑 2
+Player 2: Discard 🀑 2
+Player 3: Draw    🀅 1
+Player 3: Discard 🀅 1
+Player 0: Draw    🀖 1
+Player 0: Discard 🀘 2
+Player 1: Draw    🀜 0
+Player 1: Discard 🀆 0
+Player 2: Draw    🀠 1
+Player 2: Discard 🀠 1
+Player 3: Draw    🀀 2
+Player 3: Discard 🀄 1
+Player 0: Draw    🀛 2
+Player 0: Discard 🀘 0
+Player 1: Draw    🀃 2
+Player 1: Discard 🀆 1
+Player 2: Draw    🀚 0
+Player 2: Discard 🀚 0
+Player 3: Draw    🀛 0
+Player 3: Discard 🀓 1
+Player 0: Draw    🀖 0
+Player 0: Discard 🀠 3
+Player 1: Draw    🀑 1
+Player 1: Discard 🀖 3
+Player 2: Draw    🀐 3
+Player 2: Discard 🀐 3
+Player 3: Draw    🀁 3
+Player 3: Discard 🀁 3
+Player 0: Draw    🀝 1
+Player 0: Discard 🀠 0
+Player 1: Draw    🀏 2
+Player 1: Discard 🀃 3
+Player 2: Draw    🀕 1
+Player 2: Discard 🀕 1
+Player 3: Draw    🀘 1
+Player 3: Discard 🀘 1
+Player 0: Draw    🀈 1
+Player 0: Discard 🀖 1
+Player 1: Draw    🀍 2
+Player 1: Discard 🀃 2
+Player 2: Draw    🀘 3
+Player 2: Discard 🀘 3
+Player 3: Draw    🀚 3
+Player 3: Reach
+Player 3: Discard 🀙 2
+Player 3 made deposite.
+New scores:
+       0:  38400
+       1:  37800
+       2:  16300
+       3:   5500
+Player 0: Draw    🀖 2
+Player 0: Discard 🀖 2
+Player 1: Draw    🀜 2
+Player 1: Discard 🀓 0
+Player 2: Draw    🀆 3
+Player 2: Discard 🀆 3
+Player 3: Draw    🀅 0
+Player 3: Discard 🀅 0
+Player 0: Draw    🀛 1
+Player 0: Discard 🀖 0
+Player 1: Draw    🀟 3
+Player 1: Discard 🀑 1
+Player 2: Draw    🀒 3
+Player 2: Discard 🀒 3
+Player 3: Draw    🀗 2
+Player 3: Discard 🀗 2
+Player 0: Draw    🀋 3
+Player 0: Discard 🀏 0
+Player 1: Draw    🀡 0
+Player 1: Discard 🀏 2
+Player 2: Draw    🀏 3
+Player 2: Discard 🀏 3
+Player 3: Draw    🀆 2
+Player 3: Discard 🀆 2
+Player 0: Draw    🀑 0
+Player 0: Discard 🀑 0
+Player 1: Draw    🀇 3
+Player 1: Discard 🀇 3
+Player 2: Draw    🀃 0
+Player 2: Discard 🀃 0
+Player 3: Draw    🀕 2
+Player 3: Discard 🀕 2
+Player 0: Draw    🀎 0
+Player 0: Discard 🀈 2
+Player 3 wins.
+  Ron from player 0
+  Hand: 🀈 2 🀉 1 🀊 0 🀚 2 🀚 3 🀛 0 🀜 3 🀝 0 🀟 2 🀠 2 🀡 1 🀀 1 🀀 2 🀀 3
+  Machi: 🀈 2
+  Dora Indicator: 🀃 1
+  Ura Dora: 🀡 3
+  Yaku:
+      Reach                ( 1):  1 [Han]
+      Dora                 (52):  3 [Han]
+      Aka-dora             (54):  1 [Han]
+      Ura-dora             (53):  0 [Han]
+  Fu: 40
+  Score: 8000
+    - Mangan
+  Ten-bou:
+    Combo: 0
+    Reach: 2
+  Scores:
+     38400:  -8000
+     37800:      0
+     16300:      0
+      5500:  10000
+========================================
+Initial Game State:
+  Round: Nan 2 Kyoku
+  Combo: 0
+  Reach: 0
+  Dice 1: 3
+  Dice 2: 0
+  Dora Indicator: 🀚 0
+  Initial Scores:
+       0:  30400
+       1:  37800
+       2:  16300
+       3:  15500
+  Dealer: 1
+  Initial Hands:
+      0: 🀇 0 🀉 0 🀋 0 🀋 2 🀌 2 🀛 3 🀜 0 🀜 3 🀠 1 🀘 1 🀘 3 🀁 1 🀃 2
+      1: 🀉 1 🀉 3 🀍 3 🀏 0 🀚 3 🀝 2 🀐 0 🀐 3 🀕 3 🀖 3 🀁 2 🀆 0 🀆 2
+      2: 🀈 3 🀊 3 🀏 2 🀏 3 🀞 1 🀟 3 🀒 1 🀓 0 🀓 2 🀔 3 🀃 0 🀄 0 🀄 3
+      3: 🀌 3 🀛 0 🀝 3 🀞 0 🀠 3 🀡 1 🀐 2 🀕 2 🀖 2 🀀 1 🀁 0 🀁 3 🀅 1
+Player 1: Draw    🀇 2
+Player 1: Discard 🀚 3
+Player 2: Draw    🀇 3
+Player 2: Discard 🀇 3
+Player 3: Draw    🀅 3
+Player 3: Discard 🀀 1
+Player 0: Draw    🀖 0
+Player 0: Discard 🀁 1
+Player 3: Pon from player 0: 🀁 0🀁 3🀁 1
+Player 3: Discard 🀐 2
+Player 0: Draw    🀅 0
+Player 0: Discard 🀅 0
+Player 3: Pon from player 0: 🀅 1🀅 3🀅 0
+Player 3: Discard 🀡 1
+Player 0: Draw    🀍 0
+Player 0: Discard 🀃 2
+Player 1: Draw    🀞 2
+Player 1: Discard 🀁 2
+Player 2: Draw    🀜 1
+Player 2: Discard 🀃 0
+Player 3: Draw    🀕 0
+Player 3: Discard 🀠 3
+Player 0: Draw    🀝 0
+Player 0: Discard 🀠 1
+Player 1: Draw    🀖 1
+Player 1: Discard 🀍 3
+Player 2: Draw    🀑 1
+Player 2: Discard 🀜 1
+Player 3: Chi from player 2: 🀜 1🀛 0🀝 3
+Player 3: Discard 🀞 0
+Player 0: Draw    🀊 1
+Player 0: Discard 🀇 0
+Player 1: Draw    🀈 1
+Player 1: Discard 🀐 0
+Player 2: Draw    🀎 2
+Player 2: Discard 🀈 3
+Player 3: Draw    🀈 2
+Player 3: Discard 🀈 2
+Player 0: Draw    🀙 0
+Player 0: Discard 🀙 0
+Player 1: Draw    🀂 0
+Player 1: Discard 🀐 3
+Player 2: Draw    🀂 1
+Player 2: Discard 🀂 1
+Player 3: Draw    🀒 3
+Player 3: Discard 🀒 3
+Player 0: Draw    🀘 2
+Player 0: Reach
+Player 0: Discard 🀜 3
+Player 0 made deposite.
+New scores:
+       0:  29400
+       1:  37800
+       2:  16300
+       3:  15500
+Player 1: Draw    🀓 3
+Player 1: Discard 🀇 2
+Player 2: Draw    🀑 3
+Player 2: Discard 🀄 0
+Player 3: Draw    🀏 1
+Player 3: Discard 🀏 1
+Player 0: Draw    🀋 3
+Player 0: Discard 🀋 3
+Player 1: Draw    🀠 0
+Player 1: Discard 🀏 0
+Player 2: Draw    🀀 2
+Player 2: Discard 🀄 3
+Player 3: Draw    🀙 3
+Player 3: Discard 🀙 3
+Player 0: Draw    🀔 1
+Player 0: Discard 🀔 1
+Player 1: Draw    🀎 1
+Player 1: Discard 🀈 1
+Player 2: Draw    🀀 0
+Player 2: Discard 🀔 3
+Player 3: Draw    🀗 3
+Player 3: Discard 🀌 3
+Player 0: Draw    🀙 2
+Player 0: Discard 🀙 2
+Player 1: Draw    🀛 1
+Player 1: Discard 🀠 0
+Player 2: Draw    🀂 3
+Player 2: Discard 🀏 3
+Player 3: Draw    🀉 2
+Player 3: Discard 🀉 2
+Player 0: Draw    🀈 0
+Player 0: Discard 🀈 0
+Player 1: Draw    🀒 2
+Player 1: Discard 🀉 1
+Player 2: Draw    🀇 1
+Player 2: Discard 🀏 2
+Player 3: Draw    🀑 0
+Player 3: Discard 🀑 0
+Player 0: Draw    🀌 1
+Player 0: Discard 🀌 1
+Player 1: Draw    🀀 3
+Player 1: Discard 🀉 3
+Player 2: Draw    🀗 2
+Player 2: Discard 🀑 1
+Player 3: Draw    🀝 1
+Player 3: Discard 🀝 1
+Player 0: Draw    🀄 1
+Player 0: Discard 🀄 1
+Player 1: Draw    🀎 3
+Player 1: Discard 🀝 2
+Player 2: Draw    🀔 0
+Player 2: Discard 🀑 3
+Player 3: Draw    🀅 2
+Player 3: Discard 🀅 2
+Player 0: Draw    🀊 0
+Player 0: Discard 🀊 0
+Player 1: Draw    🀑 2
+Player 1: Discard 🀑 2
+Player 2: Draw    🀆 1
+Player 2: Discard 🀊 3
+Player 3: Draw    🀡 2
+Player 3: Discard 🀡 2
+Player 0: Draw    🀄 2
+Player 0: Discard 🀄 2
+Player 1: Draw    🀕 1
+Player 1: Discard 🀕 1
+Player 3 wins.
+  Ron from player 1
+  Hand: 🀕 0 🀕 1 🀕 2 🀖 2 🀗 3
+  Machi: 🀕 1
+  Dora Indicator: 🀚 0
+  Yaku:
+      Nan                  (15):  1 [Han]
+      Hatsu                (19):  1 [Han]
+      Dora                 (52):  1 [Han]
+  Fu: 30
+  Score: 3900
+  Ten-bou:
+    Combo: 0
+    Reach: 1
+  Scores:
+     29400:      0
+     37800:  -3900
+     16300:      0
+     15500:   4900
+========================================
+Initial Game State:
+  Round: Nan 3 Kyoku
+  Combo: 0
+  Reach: 0
+  Dice 1: 2
+  Dice 2: 2
+  Dora Indicator: 🀀 2
+  Initial Scores:
+       0:  29400
+       1:  33900
+       2:  16300
+       3:  20400
+  Dealer: 2
+  Initial Hands:
+      0: 🀉 0 🀌 1 🀙 2 🀚 1 🀛 0 🀛 2 🀜 3 🀝 3 🀔 0 🀘 2 🀀 1 🀀 3 🀆 1
+      1: 🀈 3 🀌 2 🀌 3 🀍 0 🀍 3 🀎 2 🀙 0 🀐 0 🀑 3 🀔 1 🀘 1 🀃 0 🀃 1
+      2: 🀇 0 🀇 2 🀉 3 🀍 1 🀏 2 🀞 3 🀠 2 🀐 1 🀑 1 🀓 3 🀁 2 🀂 1 🀅 1
+      3: 🀈 2 🀋 0 🀛 1 🀛 3 🀝 0 🀝 2 🀟 0 🀟 3 🀓 1 🀂 0 🀂 2 🀃 3 🀅 0
+Player 2: Draw    🀗 3
+Player 2: Discard 🀂 1
+Player 3: Draw    🀂 3
+Player 3: Discard 🀈 2
+Player 0: Draw    🀕 1
+Player 0: Discard 🀘 2
+Player 1: Draw    🀉 1
+Player 1: Discard 🀘 1
+Player 2: Draw    🀊 0
+Player 2: Discard 🀐 1
+Player 3: Draw    🀕 3
+Player 3: Discard 🀓 1
+Player 0: Draw    🀎 0
+Player 0: Discard 🀆 1
+Player 1: Draw    🀁 1
+Player 1: Discard 🀙 0
+Player 2: Draw    🀝 1
+Player 2: Discard 🀅 1
+Player 3: Draw    🀑 2
+Player 3: Discard 🀑 2
+Player 0: Draw    🀗 0
+Player 0: Discard 🀗 0
+Player 1: Draw    🀟 2
+Player 1: Discard 🀔 1
+Player 2: Draw    🀖 1
+Player 2: Discard 🀠 2
+Player 3: Draw    🀋 1
+Player 3: Discard 🀕 3
+Player 0: Draw    🀅 3
+Player 0: Discard 🀅 3
+Player 1: Draw    🀔 2
+Player 1: Discard 🀔 2
+Player 2: Draw    🀒 0
+Player 2: Discard 🀍 1
+Player 3: Draw    🀓 2
+Player 3: Discard 🀓 2
+Player 0: Draw    🀄 1
+Player 0: Discard 🀄 1
+Player 1: Draw    🀄 3
+Player 1: Discard 🀟 2
+Player 3: Pon from player 1: 🀟 3🀟 2🀟 0
+Player 3: Discard 🀃 3
+Player 0: Draw    🀡 0
+Player 0: Discard 🀡 0
+Player 1: Draw    🀗 2
+Player 1: Discard 🀗 2
+Player 2: Draw    🀏 3
+Player 2: Discard 🀁 2
+Player 3: Draw    🀇 3
+Player 3: Discard 🀇 3
+Player 0: Draw    🀀 0
+Player 0: Discard 🀉 0
+Player 1: Draw    🀡 3
+Player 1: Discard 🀁 1
+Player 2: Draw    🀊 2
+Player 2: Discard 🀇 2
+Player 3: Draw    🀏 1
+Player 3: Discard 🀏 1
+Player 0: Draw    🀊 1
+Player 0: Discard 🀊 1
+Player 1: Draw    🀚 2
+Player 1: Discard 🀡 3
+Player 2: Draw    🀡 2
+Player 2: Discard 🀇 0
+Player 3: Draw    🀆 3
+Player 3: Discard 🀆 3
+Player 0: Draw    🀇 1
+Player 0: Discard 🀇 1
+Player 1: Draw    🀗 1
+Player 1: Discard 🀗 1
+Player 2: Draw    🀐 2
+Player 2: Discard 🀡 2
+Player 3: Draw    🀘 3
+Player 3: Discard 🀘 3
+Player 0: Draw    🀋 2
+Player 0: Discard 🀎 0
+Player 1: Draw    🀐 3
+Player 1: Discard 🀄 3
+Player 2: Draw    🀠 1
+Player 2: Discard 🀠 1
+Player 3: Draw    🀓 0
+Player 3: Discard 🀓 0
+Player 0: Draw    🀌 0
+Player 0: Discard 🀋 2
+Player 3: Pon from player 0: 🀋 0🀋 1🀋 2
+Player 3: Discard 🀅 0
+Player 0: Draw    🀜 1
+Player 0: Discard 🀙 2
+Player 1: Draw    🀟 1
+Player 1: Discard 🀟 1
+Player 2: Chi from player 1: 🀟 1🀝 1🀞 3
+Player 2: Discard 🀐 2
+Player 3: Draw    🀚 0
+Player 3: Discard 🀚 0
+Player 0: Draw    🀎 3
+Player 0: Discard 🀎 3
+Player 1: Chi from player 0: 🀎 3🀌 2🀍 0
+Player 1: Discard 🀚 2
+Player 2: Draw    🀆 0
+Player 2: Discard 🀆 0
+Player 3: Draw    🀅 2
+Player 3: Discard 🀅 2
+Player 0: Draw    🀙 3
+Player 0: Reach
+Player 0: Discard 🀙 3
+Player 0 made deposite.
+New scores:
+       0:  28400
+       1:  33900
+       2:  16300
+       3:  20400
+Player 1: Draw    🀖 2
+Player 1: Discard 🀎 2
+Player 2: Draw    🀠 0
+Player 2: Discard 🀠 0
+Player 3: Draw    🀃 2
+Player 3: Discard 🀃 2
+Player 0: Draw    🀁 0
+Player 0: Discard 🀁 0
+Player 1: Draw    🀘 0
+Player 1: Discard 🀃 1
+Player 2: Draw    🀞 0
+Player 2: Discard 🀊 0
+Player 3: Draw    🀕 2
+Player 3: Discard 🀂 3
+Player 0: Draw    🀄 0
+Player 0: Discard 🀄 0
+Player 1: Draw    🀊 3
+Player 1: Discard 🀃 0
+Player 2: Draw    🀡 1
+Player 2: Discard 🀡 1
+Player 3: Draw    🀍 2
+Player 3: Discard 🀂 2
+Player 0: Draw    🀖 3
+Player 0 wins.
+  Tsumo.
+  Hand: 🀌 0 🀌 1 🀚 1 🀛 0 🀛 2 🀜 1 🀜 3 🀝 3 🀔 0 🀕 1 🀖 3 🀀 0 🀀 1 🀀 3
+  Machi: 🀖 3
+  Dora Indicator: 🀀 2
+  Ura Dora: 🀒 1
+  Yaku:
+      Reach                ( 1):  1 [Han]
+      Tsumo                ( 0):  1 [Han]
+      Aka-dora             (54):  1 [Han]
+      Ura-dora             (53):  0 [Han]
+  Fu: 30
+  Score: 4000
+  Ten-bou:
+    Combo: 0
+    Reach: 1
+  Scores:
+     28400:   5000
+     33900:  -1000
+     16300:  -2000
+     20400:  -1000
+========================================
+Initial Game State:
+  Round: Nan 4 Kyoku
+  Combo: 0
+  Reach: 0
+  Dice 1: 3
+  Dice 2: 0
+  Dora Indicator: 🀓 0
+  Initial Scores:
+       0:  33400
+       1:  32900
+       2:  14300
+       3:  19400
+  Dealer: 3
+  Initial Hands:
+      0: 🀋 3 🀌 2 🀏 0 🀏 2 🀛 1 🀞 0 🀟 1 🀐 1 🀒 0 🀒 3 🀓 1 🀁 1 🀅 3
+      1: 🀉 2 🀊 1 🀌 0 🀞 3 🀠 3 🀡 3 🀑 3 🀔 0 🀗 0 🀂 1 🀆 0 🀅 2 🀄 0
+      2: 🀇 0 🀊 0 🀊 2 🀙 3 🀞 1 🀠 2 🀐 0 🀑 0 🀔 1 🀀 3 🀃 3 🀄 2 🀄 3
+      3: 🀈 0 🀈 2 🀉 3 🀍 3 🀏 3 🀚 2 🀜 3 🀑 1 🀓 2 🀕 0 🀕 1 🀀 1 🀃 0
+Player 3: Draw    🀔 2
+Player 3: Discard 🀃 0
+Player 0: Draw    🀍 1
+Player 0: Discard 🀅 3
+Player 1: Draw    🀙 2
+Player 1: Discard 🀙 2
+Player 2: Draw    🀘 3
+Player 2: Discard 🀀 3
+Player 3: Draw    🀌 3
+Player 3: Discard 🀀 1
+Player 0: Draw    🀎 0
+Player 0: Discard 🀁 1
+Player 1: Draw    🀟 3
+Player 1: Discard 🀅 2
+Player 2: Draw    🀎 3
+Player 2: Discard 🀇 0
+Player 3: Draw    🀎 1
+Player 3: Discard 🀑 1
+Player 0: Draw    🀖 0
+Player 0: Discard 🀐 1
+Player 1: Draw    🀡 2
+Player 1: Discard 🀆 0
+Player 2: Draw    🀠 0
+Player 2: Discard 🀙 3
+Player 3: Draw    🀐 3
+Player 3: Discard 🀐 3
+Player 0: Draw    🀙 0
+Player 0: Discard 🀖 0
+Player 1: Draw    🀉 0
+Player 1: Discard 🀄 0
+Player 2: Draw    🀒 2
+Player 2: Discard 🀎 3
+Player 3: Draw    🀗 2
+Player 3: Discard 🀏 3
+Player 0: Draw    🀁 3
+Player 0: Discard 🀁 3
+Player 1: Draw    🀛 2
+Player 1: Discard 🀂 1
+Player 2: Draw    🀇 3
+Player 2: Discard 🀇 3
+Player 3: Draw    🀕 2
+Player 3: Discard 🀗 2
+Player 0: Draw    🀜 0
+Player 0: Discard 🀙 0
+Player 1: Draw    🀚 1
+Player 1: Discard 🀑 3
+Player 2: Draw    🀂 3
+Player 2: Discard 🀂 3
+Player 3: Draw    🀠 1
+Player 3: Discard 🀠 1
+Player 2: Pon from player 3: 🀠 0🀠 2🀠 1
+Player 2: Discard 🀘 3
+Player 3: Draw    🀟 0
+Player 3: Discard 🀟 0
+Player 0: Draw    🀍 0
+Player 0: Discard 🀏 2
+Player 1: Draw    🀒 1
+Player 1: Discard 🀗 0
+Player 2: Draw    🀞 2
+Player 2: Discard 🀃 3
+Player 3: Draw    🀘 2
+Player 3: Discard 🀘 2
+Player 0: Draw    🀃 1
+Player 0: Discard 🀃 1
+Player 1: Draw    🀛 0
+Player 1: Discard 🀡 2
+Player 2: Draw    🀎 2
+Player 2: Discard 🀎 2
+Player 3: Draw    🀆 1
+Player 3: Discard 🀆 1
+Player 0: Draw    🀆 2
+Player 0: Discard 🀆 2
+Player 1: Draw    🀀 0
+Player 1: Discard 🀡 3
+Player 2: Draw    🀝 1
+Player 2: Discard 🀊 2
+Player 3: Chi from player 2: 🀊 2🀈 0🀉 3
+Player 3: Discard 🀈 2
+Player 0: Draw    🀡 1
+Player 0: Discard 🀡 1
+Player 1: Draw    🀊 3
+Player 1: Discard 🀌 0
+Player 2: Draw    🀏 1
+Player 2: Discard 🀊 0
+Player 1: Pon from player 2: 🀊 1🀊 3🀊 0
+Player 1: Discard 🀀 0
+Player 2: Draw    🀝 3
+Player 2: Discard 🀏 1
+Player 3: Draw    🀋 1
+Player 3: Discard 🀎 1
+Player 0: Draw    🀅 0
+Player 0: Discard 🀅 0
+Player 1: Draw    🀉 1
+Player 1: Discard 🀚 1
+Player 2: Draw    🀐 2
+Player 2: Discard 🀐 2
+Player 3: Draw    🀈 1
+Player 3: Discard 🀈 1
+Player 0: Draw    🀚 0
+Player 0: Discard 🀏 0
+Player 1: Draw    🀜 1
+Player 1: Discard 🀜 1
+Player 2: Draw    🀌 1
+Player 2: Discard 🀌 1
+Player 3: Draw    🀟 2
+Player 3: Discard 🀟 2
+Player 0: Draw    🀝 0
+Player 0: Discard 🀎 0
+Player 1: Draw    🀁 2
+Player 1: Discard 🀁 2
+Player 2: Draw    🀗 1
+Player 2: Discard 🀗 1
+Player 3: Draw    🀂 0
+Player 3: Discard 🀂 0
+Player 0: Draw    🀋 2
+Player 0: Discard 🀌 2
+Player 1: Draw    🀛 3
+Player 1: Discard 🀉 0
+Player 2: Draw    🀅 1
+Player 2: Discard 🀅 1
+Player 3: Draw    🀙 1
+Player 3: Discard 🀙 1
+Player 0: Draw    🀇 2
+Player 0: Discard 🀇 2
+Player 1: Draw    🀁 0
+Player 1: Discard 🀁 0
+Player 2: Draw    🀄 1
+Player 2: Discard 🀔 1
+Player 3: Draw    🀗 3
+Player 3: Discard 🀗 3
+Player 0: Draw    🀃 2
+Player 0: Discard 🀃 2
+Player 1: Draw    🀚 3
+Player 1: Discard 🀚 3
+Player 2: Draw    🀓 3
+Player 2: Discard 🀐 0
+Player 3: Draw    🀋 0
+Player 3: Discard 🀌 3
+Player 0: Draw    🀖 2
+Player 0: Discard 🀚 0
+Player 1: Draw    🀜 2
+Player 1: Discard 🀜 2
+Player 2: Draw    🀝 2
+Player 2: Discard 🀄 3
+Player 3: Draw    🀈 3
+Player 3: Discard 🀈 3
+Ryukyoku:
+Player 1: 🀉 1 🀉 2 🀛 0 🀛 2 🀛 3 🀞 3 🀟 3 🀠 3 🀒 1 🀔 0
+Player 2: 🀝 1 🀝 2 🀝 3 🀞 1 🀞 2 🀑 0 🀒 2 🀓 3 🀄 1 🀄 2
+  Scores:
+     33400:  -1500
+     32900:   1500
+     14300:   1500
+     19400:  -1500
+  Ten-bou:
+    Combo: 0
+    Reach: 0
+  Result:
+     31900:   12.0
+     34400:   44.0
+     15800:  -34.0
+     17900:  -22.0

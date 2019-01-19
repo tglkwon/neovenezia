@@ -239,7 +239,7 @@ def _parse_kan(meld):
         hai0, h[2] = h[2], hai0
     if kui == 2:
         hai0, h[0] = h[0], hai0
-    return ([hai0] + h) if kui else h[:2]
+    return ([hai0] + h) if kui else h
 
 
 def _parse_call(attrib):
