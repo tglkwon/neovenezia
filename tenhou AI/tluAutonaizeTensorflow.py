@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import re
 
-f = open("""./kakan_ton1_1.txt""", 'r', encoding='UTF8')
+f = open("""./KaKan_ton1.txt""", 'r', encoding='UTF8')
 fTxt = f.read()
 
 #1KyokuSpliter
@@ -10,7 +10,8 @@ kyoku = 8
 KyokuSSplit = KyokuSplit[kyoku].split('\n')
 nPlayer = 1
 
-#DoraIndicator[] = 
+#DoraIndicator[] =
+#ReachIndicator[] =
 
 #N번 플레이어 버림패
 def PlayerKawa(nPlayer):
