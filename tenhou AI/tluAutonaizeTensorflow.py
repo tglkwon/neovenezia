@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-f = open("""./kakan_ton1_1.txt""", 'r', encoding='UTF8')
-print(f.read())
-
-
-# In[14]:
-
-
 from bs4 import BeautifulSoup
 import re
 
@@ -19,9 +6,9 @@ fTxt = f.read()
 
 #1KyokuSpliter
 KyokuSplit = fTxt.split('='*40)
-kyoku = 1
+kyoku = 8
 KyokuSSplit = KyokuSplit[kyoku].split('\n')
-nPlayer = 0
+nPlayer = 1
 
 #DoraIndicator[] = 
 
@@ -49,48 +36,49 @@ def PlayerTsumo(nPlayer):
             Tsumo.append(Haibo[idx-1][-3])    
         elif 'Player '+ str(nPlayer) +': Pon ' in line:
             Tsumo.append(Haibo[idx-1][-3])
-        elif 'Player '+ str(nPlayer) +': KaKan ' in line:
-            #Tsumo.remove(Haibo[idx-1][-3])
-            pass
-        elif 'Player '+ str(nPlayer) +': AnKan ' in line:
-            pass
-        elif 'Player '+ str(nPlayer) +': MinKan ' in line:
-            pass
+        elif 'Player '+ str(nPlayer) +': KaKan' in line:
+            Tsumo.remove(Haibo[idx-1][-3])
+        elif 'Player '+ str(nPlayer) +': AnKan' in line:
+            Tsumo.remove(Haibo[idx-1][-3])
+        elif 'Player '+ str(nPlayer) +': MinKan' in line:
+            Tsumo.remove(Haibo[idx-1][-3])
             
     return Tsumo
 
-'''#N번 플레이어 받은패
+#N번 플레이어 받은패
 def PlayerNaki(nPlayer):
     Naki = {}
-    for line in Haibo:
-        if 'Player '+ str(nPlayer) +': Draw ' in line:
-            #Naki[].append(line[-3])
+    for idx, line in enumerate(Haibo):
+        NakiInfo = line.split(': ')
+        if 'Player '+ str(nPlayer) +': Chi ' in line:
+            Naki[NakiInfo[1]] = re.findall(r"[^A-Za-z0-9: ]+", NakiInfo[2])
         elif 'Player '+ str(nPlayer) +': Pon ' in line:
-            #Draw.append(line[29:30])
-        elif 'Player '+ str(nPlayer) +': Chi ' in line:
-            #Draw.append(line[29:30])
-        elif 'Player '+ str(nPlayer) +': Kan ' in line:
-            #Draw.append(line[29:30])
+            Naki[NakiInfo[1]] = re.findall(r"[^A-Za-z0-9: ]+", NakiInfo[2])
+        elif 'Player '+ str(nPlayer) +': KaKan' in line:
+            Naki[NakiInfo[1]] = re.findall(r"[^A-Za-z0-9: ]+", NakiInfo[2])
+        elif 'Player '+ str(nPlayer) +': AnKan' in line:
+            Naki[NakiInfo[1]] = re.findall(r"[^A-Za-z0-9: ]+", NakiInfo[2])
+        elif 'Player '+ str(nPlayer) +': MinKan' in line:
+            Naki[NakiInfo[1]] = re.findall(r"[^A-Za-z0-9: ]+", NakiInfo[2])
             
-    return Naki'''
+    return Naki
+
+TotalTurn = len(PlayerKawa(nPlayer))
 
 #N번 플레이어 n순 손패
 def Hands(nTurn):
     nPlayerHands = nPlayerInitialHands
     #Nsun n 순
-    TotalTurn = len(PlayerKawa(nPlayer))
-    for nTurn in range(TotalTurn):
-        nPlayerHands.append(PlayerTsumo(nPlayer)[nTurn])
-        nPlayerHands.remove(PlayerKawa(nPlayer)[nTurn])
+    for Turn in range(nTurn):
+        nPlayerHands.append(PlayerTsumo(nPlayer)[Turn])
+        nPlayerHands.remove(PlayerKawa(nPlayer)[Turn])
         nPlayerHands.sort()
 
-print(nPlayerHands)
+    return(nPlayerHands)
 
+print(Hands(TotalTurn))
+print(PlayerNaki(nPlayer))
 #마작 버림패 최대 수 24매
-
-
-# In[ ]:
-
 
 
 
