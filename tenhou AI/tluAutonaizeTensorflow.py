@@ -130,7 +130,7 @@ Xinput = nPlayerHands(nTurn, nPlayer) + AllKawaNaki(nTurn, nPlayer)
 
 print(Xinput)
 
-
+''''''
 
 
 class kyokuHaibo:
