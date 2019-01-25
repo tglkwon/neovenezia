@@ -94,17 +94,46 @@ def listStretcher(lList: list, lLenth: int):
 
 numStretch = {'maxKawa':24, 'maxNaki':4*4, 'maxHand':14}
 #print(PlayerKawa(nPlayer))
-#print(listStretcher(PlayerKawa(nPlayer), 24))
+print(listStretcher(PlayerKawa(nPlayer), 24))
 
 #N순 모든 버림패
-def AllKawa(turn):
-    for tturn in range(turn):
-        aKawa = listStretcher(PlayerKawa(0)[:tturn], 24) + listStretcher(PlayerKawa(1)[:tturn], 24)+listStretcher(PlayerKawa(2)[:tturn], 24)+listStretcher(PlayerKawa(3)[:tturn], 24)
-    #AKawa =  listStretcher(PlayerKawa(0), 24) + listStretcher(PlayerKawa(1), 24)+listStretcher(PlayerKawa(2), 24)+listStretcher(PlayerKawa(3), 24)
-    return aKawa
+def AllKawa(nTurn, nPlayer):
+    Kawa = {0:[], 1:[], 2:[], 3:[]}
+    turn = 0
+    for line in Haibo:
+        if ": Discard " in line:
+            if int(line[7]) == nPlayer:
+                turn += 1
+            if turn > nTurn:
+                break
+            Kawa[int(line[7])].append(line[-3])
+    alKawa = []
+    for idx in range(4):
+        alKawa = alKawa+listStretcher(Kawa[idx], numStretch['maxKawa'])
+
+    return alKawa
+
+#N순 모든 받은패
+def AllNaki(nTurn, nPlayer):
+    Naki = {0:[], 1:[], 2:[], 3:[]}
+    turn = 0
+    for line in Haibo:
+        if ": Discard " in line:
+            if int(line[7]) == nPlayer:
+                turn += 1
+            if turn > nTurn:
+                break
+            Naki[int(line[7])].append(line[-3])
+    alKawa = []
+    for idx in range(4):
+        alKawa = alKawa+listStretcher(Naki[idx], numStretch['maxKawa'])
+
+    return alKawa
 
 
-#print(AllKawa(2))
+nTurn = 2
+print(AllKawa(nTurn, 0))
+Xinput = nPlayerHands(nTurn) + AllKawa(nTurn, nPlayer)
 
 class kyokuHaibo:
     pass
