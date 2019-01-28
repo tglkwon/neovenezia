@@ -72,12 +72,10 @@ def nPlayerHands(nTurn, nPlayer):
     Hand = nPlayerInitialHands[:]
     for Turn in range(nTurn):
         Hand.append(PlayerTsumo(nPlayer)[Turn])
-        print(Hand)
-        print(PlayerKawa(nPlayer))
         Hand.remove(PlayerKawa(nPlayer)[Turn])
 
+    Hand.sort()
     Hands = Hand + list(PlayerKawa(nPlayer)[nTurn-1])
-    Hands.sort()
     return(Hands)
 
 #print(nPlayerHands(TotalTurn))
@@ -106,11 +104,11 @@ def AllKawaNaki(nTurn, nPlayer):
     for line in Haibo:
         NakiInfo = line.split(': ')
         if ": Discard " in line:
-            while turn <= nTurn:
-                if int(line[7]) == nPlayer:
+            #while turn <= nTurn:
+            if int(line[7]) == nPlayer:
                     turn += 1
-            #if turn > nTurn:
-             #   break
+            if turn > nTurn:
+                break
             Kawa[int(line[7])].append(line[-3])
         elif (': Chi ' in line or ': Pon ' in line
                 or ': KaKan' in line or ': AnKan' in line
@@ -128,9 +126,10 @@ nTurn = 1
 Youtput = nPlayerHands(nTurn, nPlayer)[-1]
 Xinput = nPlayerHands(nTurn, nPlayer) + AllKawaNaki(nTurn, nPlayer)
 
-print(Xinput)
+#print(Xinput)
+#print(Youtput)
 
-''''''
+
 
 
 class kyokuHaibo:
