@@ -97,7 +97,7 @@ numStretch = {'maxKawa':24, 'maxNaki':4*4, 'maxHand':14}
 #print(PlayerKawa(nPlayer))
 #print(listStretcher(PlayerKawa(nPlayer), 24))
 
-#N순 모든 버림패
+#N순 모든 버림패, 받은패, nPlayer 손패
 def Xinput(nTurn, nPlayer):
     Kawa = {0: [], 1: [], 2: [], 3: []}
     Naki = {0: [], 1: [], 2: [], 3: []}
@@ -125,33 +125,40 @@ def Xinput(nTurn, nPlayer):
     return alKawa
 
 nTurn = 1
-
-Youtput = nPlayerHands(nTurn, nPlayer)[-1]
+def Youtput(nTurn, nPlayer):
+    Youtput = nPlayerHands(nTurn, nPlayer)[-1]
+    return Youtput
 
 #print(Xinput(nTurn, nPlayer))
 #print(Youtput)
 
-class TurnToHanchang:
-    def __init__(self, totalTurn, totalKyoku):
+class DataMerge:
+    def __init__(self, totalTurn, totalKyoku, nTurn, nPlayer):
         self.totalTurn = totalTurn
         self.totalKyoku = totalKyoku
+        self.nPlayer = nPlayer
+        self.nTurn = nTurn
 
     #한 국의 모든 turn을 데이터화
-    def KyokuData(self, turnToKyoku):
-        for nTurn in range(totalTurn):
-            Kyoku = []
-            Kyoku.append(turnToKyoku)
+    def Merge(self, turnToKyoku, appendTotal):
+        Kyoku = []
+        total = totalTurn if appendTotal == totalTurn else totalKyoku
+        for nTurn in range(total):
+            Kyoku.append(turnToKyoku(nTurn, nPlayer))
 
         return Kyoku
 
     #한 반장의 모든 국을 데이터화
-    def HanchangData(self, kyokuToHanchang):
+    def HanchangData(self, kyokuToHanchang, totalKyoku):
+        Hanchang = []
         for nKyoku in range(totalKyoku):
-            Hanchang = []
             Hanchang.append(kyokuToHanchang)
 
         return Hanchang
 
-Youtput11 = TurnToHanchang(totalTurn, totalKyoku)
-Youtput11.KyokuData(Youtput)
-print(Youtput11.KyokuData(Youtput))
+Xinput11 = DataMerge(totalTurn, totalKyoku, nTurn, nPlayer)
+#XKyoku = Xinput11.Merge(Xinput, totalTurn)
+XHanchang = Xinput11.HanchangData(Xinput11.Merge(Xinput, totalTurn), totalKyoku)
+Youtput11 = DataMerge(totalTurn, totalKyoku, nTurn, nPlayer)
+#XKyoku = Xinput11.Merge(Xinput, totalTurn)
+YHanchang = Youtput11.HanchangData(Youtput11.Merge(Youtput, totalTurn), totalKyoku)
