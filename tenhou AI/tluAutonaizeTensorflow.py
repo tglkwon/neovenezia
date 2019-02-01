@@ -7,6 +7,7 @@ fTxt = f.read()
 #1KyokuSpliter
 KyokuSplit = fTxt.split('='*40)
 #kyoku = 0 에는 metadata가 들어감
+totalKyoku = len(KyokuSplit) - 1
 kyoku = 8
 nPlayer = 1
 KyokuSSplit = KyokuSplit[kyoku].split('\n')
@@ -65,7 +66,7 @@ def PlayerNaki(nPlayer):
             
     return Naki
 
-TotalTurn = len(PlayerKawa(nPlayer))
+totalTurn = len(PlayerKawa(nPlayer))
 
 #N번 플레이어 n순 손패
 def nPlayerHands(nTurn, nPlayer):
@@ -78,7 +79,7 @@ def nPlayerHands(nTurn, nPlayer):
     Hands = Hand + list(PlayerKawa(nPlayer)[nTurn-1])
     return(Hands)
 
-#print(nPlayerHands(TotalTurn))
+#print(nPlayerHands(totalTurn))
 #print(PlayerNaki(nPlayer))
 #마작 버림패 최대 수 24매
 
@@ -97,7 +98,7 @@ numStretch = {'maxKawa':24, 'maxNaki':4*4, 'maxHand':14}
 #print(listStretcher(PlayerKawa(nPlayer), 24))
 
 #N순 모든 버림패
-def AllKawaNaki(nTurn, nPlayer):
+def Xinput(nTurn, nPlayer):
     Kawa = {0: [], 1: [], 2: [], 3: []}
     Naki = {0: [], 1: [], 2: [], 3: []}
     turn = 0
@@ -119,22 +120,38 @@ def AllKawaNaki(nTurn, nPlayer):
     for idx in range(4):
         alKawa = alKawa + listStretcher(Kawa[idx], numStretch['maxKawa']) + listStretcher(Naki[idx], numStretch['maxNaki'])
 
+    alKawa = nPlayerHands(nTurn, nPlayer) + alKawa
+
     return alKawa
 
 nTurn = 1
 
 Youtput = nPlayerHands(nTurn, nPlayer)[-1]
-Xinput = nPlayerHands(nTurn, nPlayer) + AllKawaNaki(nTurn, nPlayer)
 
-#print(Xinput)
+#print(Xinput(nTurn, nPlayer))
 #print(Youtput)
 
+class TurnToHanchang:
+    def __init__(self, totalTurn, totalKyoku):
+        self.totalTurn = totalTurn
+        self.totalKyoku = totalKyoku
 
+    #한 국의 모든 turn을 데이터화
+    def KyokuData(self, turnToKyoku):
+        for nTurn in range(totalTurn):
+            Kyoku = []
+            Kyoku.append(turnToKyoku)
 
+        return Kyoku
 
-class kyokuHaibo:
-    def __init__(self, nTurn, nPlayer):
-        self.nTurn = 0
-        self.nPlayer = 0
+    #한 반장의 모든 국을 데이터화
+    def HanchangData(self, kyokuToHanchang):
+        for nKyoku in range(totalKyoku):
+            Hanchang = []
+            Hanchang.append(kyokuToHanchang)
 
-    pass
+        return Hanchang
+
+Youtput11 = TurnToHanchang(totalTurn, totalKyoku)
+Youtput11.KyokuData(Youtput)
+print(Youtput11.KyokuData(Youtput))
